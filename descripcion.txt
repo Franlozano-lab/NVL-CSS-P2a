@@ -1,0 +1,40 @@
+-Creo carpeta en mi escritorio con el nombre NVL-CSS-P2a
+- Abro carpeta NVL-CSS-P2a desde VS
+- Creo un archivo index.html:
+<!DOCTYPE html> 
+<html>
+      <head>
+        <meta charset="utf-8">
+        <title>Upgrtade preboot</title>
+        <link rel="stylesheet" href="styles.css">
+      </head>
+      <body>
+         <h1>"Mi curso de iniciacion  en CSS"</h1> 
+         <p>
+         <spam>"Este es mi primer ejercicio de CSS"</spam>
+         <spam>"Tengo ilusion"</spam>
+         <spam>"Me voy a esforzar"</spam>
+         </p>
+
+
+         <ul>
+           <li>Fran</li>
+           <li>Angel</li>
+           <li>Pepe</li>
+           <li>Juan</li>
+
+         </ul>
+
+      </body>
+    
+
+</html>
+- creo un styles.css:
+li {
+    color: #000000;
+    background-color: #fabada;
+    
+}
+- Lo subo a git
+- Hago un cambio para corregir asignacion de colores.
+Salvo y refresco

@@ -1,0 +1,151 @@
+Last login: Mon Jan 13 12:55:38 on ttys001
+franlozano@MacBook-Pro-Fran ~ % ls        
+Adobe
+Applications
+Champions League  Once inicial del Barça ante el PSV.mp4
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Google Drive
+Library
+MacKeeper Backups
+Movies
+Music
+Parallels
+Pictures
+Public
+Sites
+bin
+cache.ga
+iCloud Drive (archivado)
+iCloud Drive (archivado) - 1
+iCloud Drive (archivado) - 2
+iCloud Drive (archivado) - 3
+iCloud Drive (archivado) - 4
+iCloud Drive (archivado) - 5
+jahstorage
+franlozano@MacBook-Pro-Fran ~ % cd Desktop 
+franlozano@MacBook-Pro-Fran Desktop % ls
+ACCESOS ZOOMIN : smartyCenter.docx
+AFP
+ALTA USUARIOS PLAYONCENTER DATOS.doc
+ALTA USUARIOS PLAYONCENTER DATOS.pdf
+ALTA USUARIOS SMARTYCENTER DATOS.docx
+AMDT Rebranding playoncenter.com
+AMP_Bridge PlayOn.docx
+API
+Added content
+Adstxt
+Borrador comunicacion  migracion Publishers.docx
+Brightcove video suite.pdf
+CONTRATO DIRECTO PUBLISHERS
+Captura de pantalla 2020-01-13 a las 15.55.54.png
+Captura de pantalla 2020-01-13 a las 16.03.54.png
+Casos de éxito
+Comunicacion AoV.docx
+Correos Publishers Migracion.docx
+DeCine21 2018
+Drive
+ESPAÑA DATOS INTERNOS 
+Escritos de reclamacion
+Facturas equipo studio
+Fran
+Freewhell
+GRPD pie de pagina.docx
+Herramienta para diseñadores UX.docx
+Herramienta para diseñadores UX.pdf
+IFrame Friendly
+Informes Publishers
+Ítems reubicados
+LISTADO_FORMATOS_FUTBOL_PLAYONCONTENT.xlsx
+LOGO Play On
+LPX NDA for spanish project.docx
+LPX Presentation.pdf
+Latam datos Internos
+Liberbank
+Libro1.xlsx
+Listado General mailchimp
+Listado de sites Propuesta video online.xlsx
+Listado historico de Publishers.xlsx
+Logos
+Mail de recaptacion Publishers PlayOn.docx
+Manual PlayOnCenter
+Manual Product v2.docx
+Meta Codigos por User
+Mockup Iron Worldshot
+Navidad 2019.jpg
+Nomenclaturas - by Jordi & Carmen 2.5.xlsx
+One Page Doc  Template.docx
+One Page Doc added content.docx
+Openhost YT
+PRODUCT
+Plantillas PlayOn "Direct YouTube".docx
+PlayON
+PlayOn - update.mp4
+Propuesta Godó
+Proyeccion VozPopuli
+Publishers perdidos
+Seguimiento de Publishers.xlsx
+Sites List
+Tricaster
+URLs PlayOn 2019
+Video e imagenes
+Waveform.jpg
+bootcamp
+csv_2019-10-22_17-59.csv
+git-2.23.0-intel-universal-mavericks.dmg
+logos Latam
+migracion Playon.docx
+modelo 145 Fran.pdf
+rastros smarty
+subscribed_members_export_775b886008 (versión 1) (Autoguardado) OK.csv
+~$AOV y META.pptx
+~$INFORME ADPRO 2016.xlsx
+~$Informe Consultoria.pptx
+~$PRISA.docx
+~$Sitelist 100 reales (referencia Sep 18).xlsx
+~$Sitelist 101 reales (referencia Feb 18).xlsx
+~$TA USUARIOS PLAYONCENTER  PLANTILLA.dotx
+~$TA USUARIOS SMARTYCENTER DATOS_ok (2).docx
+~$antillas playon.docx
+~$il de recaptacion Publishers PlayOn.docx
+~$municacion AoV.docx
+~$rramienta para diseñadores UX.docx
+franlozano@MacBook-Pro-Fran Desktop % cd bootcamp 
+franlozano@MacBook-Pro-Fran bootcamp % cd git
+franlozano@MacBook-Pro-Fran git % ls 
+NVL-CSS-P2a
+franlozano@MacBook-Pro-Fran git % cd NVL-CSS-P2a 
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % cd ..
+franlozano@MacBook-Pro-Fran git % ls
+NVL-CSS-P2a
+franlozano@MacBook-Pro-Fran git % cd NVL-CSS-P2a 
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % git init
+Initialized empty Git repository in /Users/franlozano/Desktop/bootcamp/git/NVL-CSS-P2a/.git/
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % ls
+index.html	styles.css
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % ls -l
+total 16
+-rw-r--r--@ 1 franlozano  staff  565 14 ene 13:52 index.html
+-rw-r--r--  1 franlozano  staff   62 14 ene 13:57 styles.css
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % git add *
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % git commit -m "primera subida de los ficheros index y css"
+[master (root-commit) 8b26183] primera subida de los ficheros index y css
+ 2 files changed, 33 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 styles.css
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % git remote add origin https://github.com/Franlozano-lab/NVL-CSS-P2a.git
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % git push -u origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 606 bytes | 606.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/Franlozano-lab/NVL-CSS-P2a.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+franlozano@MacBook-Pro-Fran NVL-CSS-P2a % 
+
